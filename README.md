@@ -2,5 +2,5 @@
 
 
 
-# This is a test - ok
+# test - ok
 
